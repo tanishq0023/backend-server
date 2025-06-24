@@ -1,0 +1,5 @@
+21:06:2025	23:40:51	8a93b5c0-daa3-498d-aeb4-46699195de6c	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:41:22	29880639-48bf-40b3-a375-56528384c286	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:41:51	5b9e7e5b-8879-4148-a20c-d4af39fd6cc9	Error: Cannot set headers after they are sent to the client
+21:06:2025	23:43:46	d89506c9-eb62-4cf3-96a9-b6469f00a03c	Error: Cannot set headers after they are sent to the client
+22:06:2025	09:03:44	ee7e6dc4-a4d7-4af1-a0fb-30bd3ad316f2	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
